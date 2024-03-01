@@ -1,8 +1,36 @@
-# React + Vite
+# Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Subtitle
 
-Currently, two official plugins are available:
+### Sub-subtitle
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a paragraph. 
+
+This is another paragraph.
+
+**This is bold text**
+
+*This is italic text*
+
+~~This is strikethrough text~~
+
+This is `inline code`.
+This is a [link](http://www.example.com)
+
+- This is a bullet list
+- Another item
+- And another item
+
+1. This is a numbered list
+2. Another item
+3. And another item
+
+> This is a blockquote.
+
+| This | is   |
+|------|------|
+| a    | table|
+
+![Alt text for image](http://www.example.com/image.jpg)
+
+---
